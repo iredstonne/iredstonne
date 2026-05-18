@@ -10,6 +10,8 @@
 
 - 💬 Ask me about **shipping quality technical products that create value for businesses.**
 
+- 🌍 I speak **French and English.**
+
 - ⚡ Fun fact **I use reviewed AI-assisted code to speed up shipping, always guardrailed by my own engineering judgment.**
 
 <h3 align="left">Connect with me:</h3>
