@@ -2,15 +2,15 @@
 
 ### A 21 years old self-made developer since 2017 & student entrepreneur from Belgium with an engineering mindset, building real softwares from real problems.
 
-- 🔭 I'm currently working on **a booking checking kiosk software that I will embed in the real world**
+- 🔭 I'm currently working on **a booking-checking kiosk software that will be embedded in the real world.**
 
-- 🌱 I'm currently trying to figure out **how to embed a software in the real world with electronics and how to start a career as a part-time freelance**
+- 🌱 I'm currently trying to figure out **how to bring software into the physical world with electronics, while also preparing to start a career as a part-time freelancer.**
 
-- 👯 I'm looking to collaborate on **startup with potential upside as CTO (Chief Technical Officer) to build a MVP (Minimal Viable Product) or make consultance**
+- 👯 I'm looking to collaborate on **startups with real upside as a CTO-oriented technical profile, especially to build MVPs or provide technical consulting.**
 
-- 💬 Ask me about **how to ship quality technical products that add value to businesses.**
+- 💬 Ask me about **shipping quality technical products that create value for businesses.**
 
-- ⚡ Fun fact **I use reviewed AI-assisted code to speed up a bit the shipping, always guardrailed by my own engineering judgment.**
+- ⚡ Fun fact **I use reviewed AI-assisted code to speed up shipping, always guardrailed by my own engineering judgment.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
