@@ -25,6 +25,7 @@
 <img src="https://skillicons.dev/icons?i=windows" alt="windows" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=debian" alt="debian" width="40" height="40"/>
 </p>
 
 <h3 align="left">Code editors:</h3>
